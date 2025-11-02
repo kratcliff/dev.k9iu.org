@@ -4,4 +4,4 @@ title: Contact
 subtitle: How to reach K9IU
 ---
 
-k9iu@indiana.edu
+k9iu@iu.edu
